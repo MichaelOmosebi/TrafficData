@@ -1,6 +1,6 @@
 # LAGOS TRAFFIC
 
-This repository comprises two projects. In summary it shows code on how to get traffic data of Selected locations from a Map-App (BingMaps), and then analyse the traffic data to test some hypothesis about patterns.
+This repository comprises two projects. In summary it shows code on how to get traffic data of Selected locations from a Map-App (BingMaps, free), and then analyse the traffic data to test some hypothesis about patterns. The other alternative would be the use of Google Map's Distance MAtrix API, however there would be need to set-up a billing account for that.
 
 ```Null Hypothesis:```
 There is no signnificant difference between road business in Lagos across the days of the week.
