@@ -11,3 +11,7 @@ There is no signnificant difference between road business in Lagos across some o
 The first part of this project deals with gathering traffic data over a minimum period of 1-Month. Data aquisition continues to feed the analytics framework more data to feed on, thereby increasing the accuracy of the conclusion. There are two alternatives for this part but this project uses the BingMaps API to collect traffic data .
 
 The second part will attempt to provide insight into the acquired data, giving a summary of Traffic behavior in Lags State, Nigeria AND provide statistical evidence to support or reject the Null Hypothesis.
+
+### NOTE:
+The secret keys used contained in this code file have expired/been disabled. There would be need to generate new keys/key files as saved in the 'data' folder from BingMaps API and Google Developer platform respectively.
+Do refer to the links in the reference.
